@@ -127,6 +127,7 @@ sections:
           - type: Link
             label: Instagram
             url: 'https://www.instagram.com/welcomists/'
+            altText: instagram link
         styles:
           self:
             textAlign: left
