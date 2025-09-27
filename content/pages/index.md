@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
-    title: we a re
+    title: we are
     subtitle: >-
       For the discerning few, yet everyone is welcome. We craft immersive events
       where pleasure is key, wonder is abundant & vibes are inspired by the free
