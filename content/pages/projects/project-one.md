@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: 2025th Element
 colors: colors-a
 date: '2025-01-01'
 client: 2025th Element
