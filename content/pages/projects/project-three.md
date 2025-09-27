@@ -4,10 +4,7 @@ title: One more cool project
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: " prepare for an evening of electrifying beats, haunting atmosphere & unforgettable energy.https://www.eventbrite.com/e/1748904774259?aff=oddtdtcreator⚡️ Priority Entry: Sign up here → https://forms.gle/25UEeptRUBn2RMvp9\U0001F449 Hit GOING now to secure your spot!"
 featuredImage:
   type: ImageBlock
   url: /images/1.png.png
