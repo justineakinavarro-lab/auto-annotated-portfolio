@@ -13,12 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
-
+    text: "**Who Are The Welcomists?**\n\nWe are the curators of connection. Founded by an unlikely trio—an artist, a lawyer, and a quantity surveyor—we spotted a void in Malta's social scene. We craved gatherings that were more upmarket, more creatively charged, and simply more fun.\n\nWe believe that gathering should be an art form—an experience that stimulates the senses and fosters meaningful connections.\n\nOur foundation is built on a unique synergy. We are a\_**trio of creators**: one weaving the visual and conceptual tapestry, another ensuring seamless execution, and the third masterfully building the framework. Together, we transform spaces into upmarket, artistically fun sanctuaries for the curious and the creative.\n\nIf you’ve ever felt that standard events were lacking soul, you’ve found your people. Welcome.\n\n"
     media:
       type: ImageBlock
       url: /images/about.jpg
