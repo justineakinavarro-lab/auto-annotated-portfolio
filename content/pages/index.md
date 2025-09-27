@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: welcomists
     subtitle: >-
       For the discerning few, yet everyone is welcome. We craft immersive events
