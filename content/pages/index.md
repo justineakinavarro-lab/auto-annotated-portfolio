@@ -156,4 +156,5 @@ sections:
           - pl-4
         flexDirection: row
         textAlign: left
+metaTitle: welcomists events
 ---
