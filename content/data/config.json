@@ -90,7 +90,7 @@
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
         "styles": {
             "self": {
-                "width": "narrow",
+                "width": "full",
                 "padding": [
                     "pt-5",
                     "pb-5",
