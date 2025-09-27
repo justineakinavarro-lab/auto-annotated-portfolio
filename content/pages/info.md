@@ -159,7 +159,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [info@welcomists.com](mailto:thisismyemail.@myemail.me)
   - type: DividerSection
     styles:
       self:
