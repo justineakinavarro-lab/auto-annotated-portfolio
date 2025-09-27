@@ -118,7 +118,7 @@ sections:
         actions:
           - type: Link
             label: Facebook
-            url: 'https://discord.com/'
+            url: 'https://www.facebook.com/welcomists/'
         styles:
           self:
             textAlign: left
