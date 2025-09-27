@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Another cool project
 colors: colors-a
 date: '2021-12-20'
-client: Up Next Hallowen in the vault
+client: ''
 description: "The Welcomists return…This Halloween, step into The Vault, where alchemy stirs, masks conceal, and shadows tempt.Sip a deadly drink, surrender to your deepest desires, and let the night transform you.\U0001F3AD Costumes Recommended\U0001F4CD The Vault\U0001F570 Ic-Civil 9pm onwards Dare to discover the secrets behind the vault?"
 featuredImage:
   type: ImageBlock
