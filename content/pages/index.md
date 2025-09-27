@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: welcomist.
+    title: welcomists
     subtitle: >-
       For the discerning few, yet everyone is welcome. We craft immersive events
       where pleasure is key, wonder is abundant & vibes are inspired by the free
