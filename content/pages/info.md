@@ -34,6 +34,7 @@ sections:
           - pr-4
         textAlign: left
     type: HeroSection
+    title: WE ARE
   - type: DividerSection
     styles:
       self:
