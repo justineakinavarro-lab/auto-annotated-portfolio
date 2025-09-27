@@ -123,7 +123,7 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-6
+          - pt-5
           - pb-24
           - pr-4
           - pl-4
