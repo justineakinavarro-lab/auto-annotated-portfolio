@@ -4,8 +4,7 @@ title: A very cool code project
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+description: "welcomists  is born  Element Event in Lisbon! \U0001F3D9️ The energy was absolutely cosmic \U0001F680, and I had the pleasure of spinning some spacey, interstellar sounds \U0001F30C that took the crowd on a journey.The feedback on the track selection was unreal—thank you for vibing with me! \U0001F64C\U0001F4AB Lisbon, you truly know how to party!Here’s to 2025, bringing more beats, more energy, and more unforgettable nights. \U0001F3A7\U0001F4A5 Let’s keep exploring the universe through music together! \U0001F680"
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
