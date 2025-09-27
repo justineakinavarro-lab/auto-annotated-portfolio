@@ -7,7 +7,7 @@ client: 2025th Element
 description: "Welcomists  is born the night of 31.12.2024 and morning of 1.1.2024  in the 2025th Element Event in Lisbon! \U0001F3D9️ The energy was absolutely cosmic \U0001F680, and 4 DJs had the pleasure of spinning some spacey, interstellar sounds that took the crowd on a journey."
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/Screenshot 2025-09-27 at 22.46.48.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
