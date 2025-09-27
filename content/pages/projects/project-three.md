@@ -4,7 +4,7 @@ title: Vault Access
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
-description: " prepare for an evening of electrifying beats, haunting atmosphere & unforgettable energy.https://www.eventbrite.com/e/1748904774259?aff=oddtdtcreator⚡️ Priority Entry: Sign up here → https://forms.gle/25UEeptRUBn2RMvp9 \U0001F449 Hit GOING now to secure your spot!"
+description: " prepare for an evening of electrifying beats, haunting atmosphere & unforgettable energy. ⚡️ Priority Entry: Sign up here → https://forms.gle/25UEeptRUBn2RMvp9 \U0001F449 Hit GOING now to secure your spot!"
 featuredImage:
   type: ImageBlock
   url: /images/1.png.png
