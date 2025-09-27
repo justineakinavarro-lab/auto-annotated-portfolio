@@ -17,7 +17,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/Screenshot 2025-09-28 at 00.13.10.png
-      altText: Hero image
+      altText: 'Hero image bay view '
     styles:
       self:
         height: auto
