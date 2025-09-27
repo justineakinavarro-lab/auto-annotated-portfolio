@@ -18,6 +18,7 @@ sections:
       type: ImageBlock
       url: /images/Screenshot 2025-09-28 at 00.13.10.png
       altText: 'Hero image bay view '
+      caption: we are always under construction
     styles:
       self:
         height: auto
