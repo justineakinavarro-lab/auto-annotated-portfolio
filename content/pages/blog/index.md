@@ -97,4 +97,5 @@ topSections:
           - pr-4
         flexDirection: col
         textAlign: center
+        borderWidth: 1
 ---
