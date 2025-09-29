@@ -7,7 +7,7 @@ client: Awesome client
 description: " prepare for an evening of electrifying beats, haunting atmosphere & unforgettable energy. ⚡️ Priority Entry: Sign up here → https://fb.me/e/8LsM7Hp9B \U0001F449 Hit GOING now to secure your spot!"
 featuredImage:
   type: ImageBlock
-  url: /images/1.png.png
+  url: /images/Screenshot 2025-09-28 at 00.16.02.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
