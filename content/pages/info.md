@@ -54,7 +54,7 @@ sections:
       - type: ImageBlock
         url: /images/bibi.jpg
         altText: Logo one
-        caption: 'Vlounge '
+        caption: Bibis
       - type: ImageBlock
         url: /images/logo4.svg
         altText: Logo four
