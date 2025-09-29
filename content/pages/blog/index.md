@@ -46,7 +46,7 @@ topSections:
         flexDirection: row
         textAlign: left
   - type: ContactSection
-    title: Contact Me
+    title: Guestlist for next Event
     text: I'm look forward to hearing from you.
     form:
       type: FormBlock
