@@ -47,7 +47,8 @@ topSections:
         textAlign: left
   - type: ContactSection
     title: Sign Up to Guestlist
-    text: I'm look forward to hearing from you.
+    text: |
+      For our next event
     form:
       type: FormBlock
       title: Title of the form
