@@ -56,4 +56,4 @@ bottomSections:
           - pr-4
         textAlign: center
 ---
-what a night with full decor concept this ticketed event was a blast
+What an absolute stellar sucess a night with full  of neon colour and on point decor concept - this ticketed event was a blast
