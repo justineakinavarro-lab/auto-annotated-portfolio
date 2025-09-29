@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Screenshot 2025-09-28 at 00.16.02.png
   altText: Project image
 ---
 
