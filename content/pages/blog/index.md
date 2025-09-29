@@ -98,4 +98,5 @@ topSections:
         flexDirection: col
         textAlign: center
         borderWidth: 1
+        borderColor: border-(--theme-secondary)
 ---
