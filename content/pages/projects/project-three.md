@@ -4,7 +4,9 @@ title: Vault Access
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
-description: ' prepare for an evening of electrifying beats, haunting atmosphere & unforgettable energy. '
+description: >-
+  Prepare for an evening of electrifying beats, haunting atmosphere &
+  unforgettable energy. 
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2025-09-28 at 00.16.02.png
