@@ -78,7 +78,7 @@ topSections:
           label: Sign me up to receive updates
           width: full
           isRequired: 'false'
-      submitLabel: Send Message
+      submitLabel: Send your details
       elementId: contact-form
       styles:
         self:
