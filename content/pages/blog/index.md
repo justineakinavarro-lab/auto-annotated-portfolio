@@ -26,13 +26,14 @@ postFeed:
         - pl-4
         - pr-4
         - pb-12
+  title: ''
 topSections:
   - type: HeroSection
     title: Guestlist
     subtitle: ''
     actions: []
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     elementId: ''
     styles:
       self:
@@ -47,7 +48,8 @@ topSections:
         textAlign: left
   - type: ContactSection
     title: Guestlist for next Event
-    text: I'm look forward to hearing from you.
+    text: |
+      Get Listed!
     form:
       type: FormBlock
       title: Title of the form
@@ -70,19 +72,19 @@ topSections:
           name: message
           label: Tell me about your project
           hideLabel: true
-          placeholder: Tell me about your project
-          width: full
+          placeholder: 'Mobile Number '
+          width: 1/2
           isRequired: true
         - type: CheckboxFormControl
           name: updates
           label: Sign me up to receive updates
           width: full
           isRequired: 'false'
-      submitLabel: Send Message
+      submitLabel: Send your details
       elementId: contact-form
       styles:
         self:
-          textAlign: center
+          textAlign: left
     colors: colors-f
     backgroundSize: full
     elementId: ''
@@ -97,4 +99,6 @@ topSections:
           - pr-4
         flexDirection: col
         textAlign: center
+        borderWidth: 1
+        borderColor: border-(--theme-secondary)
 ---

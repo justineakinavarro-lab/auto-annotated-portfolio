@@ -20,8 +20,9 @@
             },
             {
                 "type": "Link",
-                "label": "Gueslist ",
-                "url": "/guestlist "
+                "label": "Guestlist ",
+                "url": "/guestlist ",
+                "altText": "Guestlist "
             }
         ],
         "socialLinks": [
