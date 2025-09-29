@@ -26,6 +26,7 @@ postFeed:
         - pl-4
         - pr-4
         - pb-12
+  title: hello
 topSections:
   - type: HeroSection
     title: Guestlist
