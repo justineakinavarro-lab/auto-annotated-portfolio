@@ -71,7 +71,7 @@ topSections:
           label: Tell me about your project
           hideLabel: true
           placeholder: 'Mobile Number '
-          width: full
+          width: 1/2
           isRequired: true
         - type: CheckboxFormControl
           name: updates
