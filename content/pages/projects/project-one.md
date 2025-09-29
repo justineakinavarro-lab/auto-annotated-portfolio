@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/Screenshot 2025-09-27 at 22.46.48.png
+  url: /images/472354079_10164953820108574_8106766522390878832_n.jpg
   altText: Project image
 bottomSections:
   - type: MediaGallerySection
