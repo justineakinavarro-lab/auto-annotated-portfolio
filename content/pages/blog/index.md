@@ -28,7 +28,7 @@ postFeed:
         - pb-12
 topSections:
   - type: HeroSection
-    title: Blog
+    title: Guestlist
     subtitle: ''
     actions: []
     colors: colors-f
