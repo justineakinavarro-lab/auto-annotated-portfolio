@@ -19,7 +19,7 @@ bottomSections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/Screenshot 2025-09-27 at 22.46.48.png
         altText: Image one
         caption: Image one caption
         elementId: ''
