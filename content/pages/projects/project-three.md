@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Vault Access
 colors: colors-a
 date: '2022-01-22'
-client: Awesome client
+client: Ic Civil
 description: >-
   Prepare for an evening of electrifying beats, haunting atmosphere &
   unforgettable energy. 
