@@ -82,7 +82,7 @@ topSections:
       elementId: contact-form
       styles:
         self:
-          textAlign: center
+          textAlign: left
     colors: colors-f
     backgroundSize: full
     elementId: ''
