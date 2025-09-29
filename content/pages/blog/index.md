@@ -46,7 +46,7 @@ topSections:
         flexDirection: row
         textAlign: left
   - type: ContactSection
-    title: Sign Up to Guestlist
+    title: Sign Up to the Guest-list
     text: |
       For our next event
     form:
