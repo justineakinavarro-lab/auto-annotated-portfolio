@@ -13,16 +13,12 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
-
+    text: "**Who Are The Welcomists?**\n\nWe are the curators of connection. Founded by an unlikely trio—an artist, a lawyer, and a quantity surveyor—we spotted a void in Malta's social scene. We craved gatherings that were more upmarket, more creatively charged, and simply more fun.\n\nWe believe that gathering should be an art form—an experience that stimulates the senses and fosters meaningful connections.\n\nOur foundation is built on a unique synergy. We are a\_**trio of creators**: one weaving the visual and conceptual tapestry, another ensuring seamless execution, and the third masterfully building the framework. Together, we transform spaces into upmarket, artistically fun sanctuaries for the curious and the creative.\n\nIf you’ve ever felt that standard events were lacking soul, you’ve found your people. Welcome.\n\n"
     media:
       type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
+      url: /images/Screenshot 2025-09-28 at 00.13.10.png
+      altText: 'Hero image bay view '
+      caption: we are always under construction
     styles:
       self:
         height: auto
@@ -39,6 +35,7 @@ sections:
           - pr-4
         textAlign: left
     type: HeroSection
+    title: WE ARE
   - type: DividerSection
     styles:
       self:
@@ -52,20 +49,12 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: 'We worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/bibi.jpg
         altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
+        caption: Bibis
       - type: ImageBlock
         url: /images/logo4.svg
         altText: Logo four
@@ -105,18 +94,12 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        actions:
-          - type: Link
-            label: GitHub
-            url: 'https://github.com/'
+        actions: []
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
+        actions: []
         styles:
           self:
             textAlign: left
@@ -131,16 +114,8 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
+            label: Facebook
+            url: 'https://www.facebook.com/welcomists/'
         styles:
           self:
             textAlign: left
@@ -148,7 +123,8 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://www.instagram.com/welcomists/'
+            altText: instagram link
         styles:
           self:
             textAlign: left
@@ -175,123 +151,12 @@ sections:
           - pr-4
         borderWidth: 1
         borderStyle: solid
-  - type: LabelsSection
-    colors: colors-f
-    subtitle: 'Skills:'
-    items:
-      - type: Label
-        label: 'WEB 1, 2, 3'
-      - type: Label
-        label: React
-      - type: Label
-        label: Microsoft Office
-      - type: Label
-        label: Next.js
-      - type: Label
-        label: Netlify
-      - type: Label
-        label: Pancakes
-      - type: Label
-        label: C++
-      - type: Label
-        label: Swift
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
   - type: TextSection
     variant: variant-a
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
-  - type: FeaturedItemsSection
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        subtitle: 'Experience:'
-        text: |-
-          **Current**
-
-          * freelance @freelance.me
-
-          **2018-2021**
-
-          * fullstack at this startup
-
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        subtitle: 'Education:'
-        text: |-
-          **2015-2018**
-
-          * ba computer sciense at a semi fancy school
-
-          **2014**
-
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
-        styles:
-          self:
-            textAlign: left
-    columns: 2
-    spacingX: 60
-    spacingY: 60
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
+      [info@welcomists.com](mailto:thisismyemail.@myemail.me)
   - type: ContactSection
     backgroundSize: full
     title: "Let’s talk... \U0001F4AC"
