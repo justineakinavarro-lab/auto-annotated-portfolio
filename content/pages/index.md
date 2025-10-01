@@ -13,10 +13,11 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
-    title: we are
+    title: We are
     subtitle: >-
       For the discerning few, yet everyone is welcome. We craft immersive events
-      where pleasure is key, wonder is abundant & vibes are inspired by the free
+      where pleasure is key, wonder is abundant & vibes are inspired by the
+      free.
     styles:
       self:
         height: auto
