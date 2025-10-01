@@ -130,4 +130,5 @@ sections:
         flexDirection: row
         textAlign: left
 metaTitle: welcomists events
+socialImage: /images/1.png.png
 ---
