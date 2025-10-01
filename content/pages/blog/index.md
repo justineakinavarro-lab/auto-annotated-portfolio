@@ -47,7 +47,7 @@ topSections:
         flexDirection: row
         textAlign: left
   - type: ContactSection
-    title: Guestlist for next Event
+    title: For the next Event
     text: |
       Get Listed!
     form:
